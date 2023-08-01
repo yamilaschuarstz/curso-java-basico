@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula43/Exercicio01/Exercicio01.iml" filepath="$PROJECT_DIR$/aula43/Exercicio01/Exercicio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula43/Exercicio02/Exercicio02.iml" filepath="$PROJECT_DIR$/aula43/Exercicio02/Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula43/Exercicio03/Exercicio03.iml" filepath="$PROJECT_DIR$/aula43/Exercicio03/Exercicio03.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula05/aula05.iml" filepath="$PROJECT_DIR$/aula05/aula05.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula06/aula06.iml" filepath="$PROJECT_DIR$/aula06/aula06.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula12/aula12.iml" filepath="$PROJECT_DIR$/aula12/aula12.iml" />
@@ -32,6 +35,8 @@
       <module fileurl="file://$PROJECT_DIR$/aula39/aula39.iml" filepath="$PROJECT_DIR$/aula39/aula39.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula40/aula40.iml" filepath="$PROJECT_DIR$/aula40/aula40.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula41/aula41.iml" filepath="$PROJECT_DIR$/aula41/aula41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula42/aula42.iml" filepath="$PROJECT_DIR$/aula42/aula42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula43/aula43.iml" filepath="$PROJECT_DIR$/aula43/aula43.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso-java-basico.iml" filepath="$PROJECT_DIR$/.idea/curso-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/variaveis/variaveis.iml" />
     </modules>
